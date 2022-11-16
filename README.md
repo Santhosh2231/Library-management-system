@@ -12,11 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-- Good knowledge on html, CSS, PHP
-- XAMPP must be installed in the system
-- You need to know how APACHE and MYSQL works in the XAMPP.
-- Basic Mysql knowledge is required.
-
+It is good to have basic knowledge of HTML, CSS, PHP and MySQL to understand this project.
+>We will use XAMP server as it has cross-platform support and we won't be needed to worry about the operating system support.
+Download and install suitable XAMP server from this link - https://www.apachefriends.org/download.html
 
 ## Setting up the environment
 
@@ -96,4 +94,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ![Report](Screenshots/report.png)
 
+***
 
+![Overdue Report](Screenshots/overdue_report.png)
+
+***
+
+![UserWise Report](Screenshots/User_wise.png)
