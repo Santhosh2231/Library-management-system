@@ -20,7 +20,7 @@ $query->bindParam(':fname',$fname,PDO::PARAM_STR);
 $query->bindParam(':mobileno',$mobileno,PDO::PARAM_STR);
 $query->execute();
 
-echo '<script>alert("Your profile has been updated successfully")</script>';
+echo '<script>alert("Your profile has been updated")</script>';
 }
 
 ?>
